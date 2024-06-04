@@ -1,4 +1,3 @@
-# mastercodae.github.org
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -39,7 +38,7 @@
   <main class="content">
     <p class="about-me">Welcome to a website dedicated to the YouTube channel Ben the Linux Guy!</p>
     <p>If you're interested in learning more about Linux, this channel is a great resource. Ben the Linux Guy provides tutorials, reviews, and insights for all things Linux-related.</p>
-    <p>Check out the channel on YouTube: <a href="https://www.youtube.com/channel/UCps2W8oNl1tcCM8RBxEZ3fg/videos" class="youtube-link">Ben the Linux Guy YouTube Channel</a></p>
+    <p>Check out the channel on YouTube: <a href="https://www.youtube.com/@benthelinuxguy" class="youtube-link">Ben the Linux Guy YouTube Channel</a></p>
   </main>
 </body>
 </html>
